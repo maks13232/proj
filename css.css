@@ -1,0 +1,23 @@
+:root {
+    
+}
+body{
+    height: 50%;
+    width: 50px;
+}
+.style{
+    padding: 300px;
+    max-width: 1170px;
+    margin: 100px center;
+    margin: 0px 0px 30px 0px;
+
+    width: 150px;
+    height: 150px;
+   
+    border: 13px solid blue;
+    border-radius: 70%;
+    background-color: blue;
+    position: relative;
+    overflow: hidden;
+    margin: 450px;
+}
